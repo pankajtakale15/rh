@@ -1,0 +1,44 @@
+[10-Jun-2017 12:00:12 America/Chicago] PHP Fatal error:  Class 'mysqli' not found in /home/renewalhelp/public_html/renser/service/login.php on line 13
+[14-Jun-2017 01:56:19 America/Chicago] PHP Warning:  include_once(../renser/contact/ContactUtil.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 3
+[14-Jun-2017 01:56:19 America/Chicago] PHP Warning:  include_once(): Failed opening '../renser/contact/ContactUtil.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 3
+[14-Jun-2017 01:56:19 America/Chicago] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 12
+[14-Jun-2017 01:56:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known' in /home/renewalhelp/public_html/renser/service/forgotPassword.php:12
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/forgotPassword.php(12): PDO->__construct('mysql:host='loc...', 'renser', 'Tech@5050')
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 12
+[14-Jun-2017 01:56:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[14-Jun-2017 02:00:09 America/Chicago] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 12
+[14-Jun-2017 02:00:09 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known' in /home/renewalhelp/public_html/renser/service/forgotPassword.php:12
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/forgotPassword.php(12): PDO->__construct('mysql:host='loc...', 'renser', 'Tech@5050')
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 12
+[14-Jun-2017 02:02:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 19
+[14-Jun-2017 02:04:25 America/Chicago] PHP Fatal error:  Call to undefined function sendEmail_ForgotPasswordWithSwift() in /home/renewalhelp/public_html/renser/service/forgotPassword.php on line 33
+[14-Jun-2017 03:32:19 America/Chicago] PHP Fatal error:  Class 'mysqli' not found in /home/renewalhelp/public_html/renser/service/login.php on line 13
+[14-Jun-2017 03:34:22 America/Chicago] PHP Fatal error:  Class 'mysqli' not found in /home/renewalhelp/public_html/renser/service/login.php on line 13
+[14-Jun-2017 04:01:49 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'renser'@'localhost' (using password: YES) in /home/renewalhelp/public_html/renser/service/login.php on line 13
+[14-Jun-2017 04:01:49 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 05:27:25 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 05:47:09 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 06:19:14 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 23:32:11 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 23:36:01 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 23:37:12 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 23:37:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/renewalhelp/public_html/renser/service/login.php on line 23
+[14-Jun-2017 23:38:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/renewalhelp/public_html/renser/service/login.php on line 21
+[14-Jun-2017 23:38:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/renewalhelp/public_html/renser/service/login.php on line 23
+[14-Jun-2017 23:39:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/renewalhelp/public_html/renser/service/login.php on line 23
+[15-Jun-2017 00:14:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/renewalhelp/public_html/renser/service/login.php on line 23
+[15-Jun-2017 01:00:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/renewalhelp/public_html/renser/service/login.php on line 23
+[15-Jun-2017 01:07:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/renewalhelp/public_html/renser/service/login.php on line 23
+[15-Jun-2017 01:14:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/renewalhelp/public_html/renser/service/login.php on line 23
+[15-Jun-2017 01:18:31 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND password = e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 ' at line 1' in /home/renewalhelp/public_html/renser/service/login.php:20
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/login.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/login.php on line 20
+[19-Jun-2017 02:27:58 America/Chicago] PHP Warning:  include_once(../commom/DB.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/service/UserService.php on line 5
+[19-Jun-2017 02:27:58 America/Chicago] PHP Warning:  include_once(): Failed opening '../commom/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/service/UserService.php on line 5
+[03-Jul-2017 03:06:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE), expecting ',' or ';' in /home/renewalhelp/public_html/renser/service/modifyPass.php on line 39

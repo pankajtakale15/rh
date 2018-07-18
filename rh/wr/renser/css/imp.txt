@@ -1,0 +1,1 @@
+UPDATE `candidate_basic_info` SET form_id = 1 WHERE id = '1883000270'

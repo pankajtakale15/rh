@@ -1,0 +1,859 @@
+[06-May-2017 09:52:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[06-May-2017 09:52:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[06-May-2017 18:04:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[06-May-2017 18:04:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[21-May-2017 15:20:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[21-May-2017 15:20:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[21-May-2017 15:20:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[21-May-2017 15:20:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[25-May-2017 14:16:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[25-May-2017 14:16:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[08-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[08-Jun-2017 02:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[09-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[09-Jun-2017 02:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[10-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[10-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[11-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[11-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[12-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[12-Jun-2017 02:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[12-Jun-2017 07:28:54 America/Chicago] PHP Warning:  include_once(common/Encryption.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/login.php on line 2
+[12-Jun-2017 07:28:54 America/Chicago] PHP Warning:  include_once(): Failed opening 'common/Encryption.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/login.php on line 2
+[12-Jun-2017 07:28:54 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/renewalhelp/public_html/renser/renser/login.php on line 15
+[12-Jun-2017 07:31:09 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'renser'@'localhost' (using password: YES) in /home/renewalhelp/public_html/renser/renser/login.php on line 15
+[12-Jun-2017 07:31:09 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/renewalhelp/public_html/renser/renser/login.php on line 19
+[12-Jun-2017 07:33:05 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/renewalhelp/public_html/renser/renser/login.php on line 19
+[13-Jun-2017 00:47:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$selectStmt' (T_VARIABLE) in /home/renewalhelp/public_html/renser/renser/login.php on line 81
+[13-Jun-2017 00:49:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$selectStmt' (T_VARIABLE) in /home/renewalhelp/public_html/renser/renser/login.php on line 81
+[13-Jun-2017 00:51:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$selectStmt' (T_VARIABLE) in /home/renewalhelp/public_html/renser/renser/login.php on line 81
+[13-Jun-2017 01:26:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:28) in /home/renewalhelp/public_html/renser/renser/login.php on line 43
+[13-Jun-2017 01:26:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:28) in /home/renewalhelp/public_html/renser/renser/login.php on line 43
+[13-Jun-2017 02:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[13-Jun-2017 02:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[13-Jun-2017 04:40:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:10) in /home/renewalhelp/public_html/renser/renser/login.php on line 43
+[13-Jun-2017 06:13:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/renewalhelp/public_html/renser/renser/login.php on line 17
+[13-Jun-2017 07:21:59 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 277
+[14-Jun-2017 00:49:05 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 278
+[14-Jun-2017 00:50:22 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/renewalhelp/public_html/renser/renser/welcome.php on line 278
+[14-Jun-2017 00:53:44 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/renewalhelp/public_html/renser/renser/welcome.php on line 279
+[14-Jun-2017 00:54:18 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 278
+[14-Jun-2017 00:54:58 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/renewalhelp/public_html/renser/renser/welcome.php on line 278
+[14-Jun-2017 00:55:19 America/Chicago] PHP Parse error:  syntax error, unexpected '"name"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 278
+[14-Jun-2017 00:59:08 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 278
+[14-Jun-2017 01:00:09 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/renewalhelp/public_html/renser/renser/welcome.php on line 278
+[14-Jun-2017 01:01:48 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/welcome.php on line 7
+[14-Jun-2017 01:01:50 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:03:03 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/welcome.php on line 7
+[14-Jun-2017 01:03:04 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:03:17 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/welcome.php on line 7
+[14-Jun-2017 01:03:20 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:04:55 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:06:06 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:07:08 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:07:58 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:12:15 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:12:52 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:14:40 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:15:19 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:25:49 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 01:26:37 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/renser/renser/report.php on line 6
+[14-Jun-2017 02:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 224
+[14-Jun-2017 06:27:09 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 149
+[14-Jun-2017 06:27:34 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 149
+[15-Jun-2017 05:10:56 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 149
+[15-Jun-2017 05:14:00 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 149
+[16-Jun-2017 04:48:46 America/Chicago] PHP Fatal error:  Call to undefined function confirmEmail() in /home/renewalhelp/public_html/renser/renser/forgotPassword.php on line 8
+[16-Jun-2017 04:49:35 America/Chicago] PHP Fatal error:  Call to undefined function confirmEmail() in /home/renewalhelp/public_html/renser/renser/forgotPassword.php on line 8
+[16-Jun-2017 04:51:23 America/Chicago] PHP Fatal error:  Call to undefined method RenewalSerService::confirmEmail() in /home/renewalhelp/public_html/renser/renser/forgotPassword.php on line 9
+[16-Jun-2017 04:52:56 America/Chicago] PHP Fatal error:  Call to undefined method RenewalSerService::confirmEmail() in /home/renewalhelp/public_html/renser/renser/forgotPassword.php on line 9
+[16-Jun-2017 04:55:26 America/Chicago] PHP Fatal error:  Call to undefined method RenewalSerService::confirmEmail() in /home/renewalhelp/public_html/renser/renser/forgotPassword.php on line 9
+[16-Jun-2017 05:00:08 America/Chicago] PHP Fatal error:  Call to undefined method RenewalSerService::confirmEmail() in /home/renewalhelp/public_html/renser/renser/forgotPassword.php on line 9
+[16-Jun-2017 05:09:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/renewalhelp/public_html/renser/renser/forgotPassword.php on line 25
+[18-Jun-2017 05:18:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[18-Jun-2017 05:18:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[20-Jun-2017 01:39:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/renewalhelp/public_html/renser/renser/confirmuser.php on line 146
+[20-Jun-2017 01:39:35 America/Chicago] PHP Fatal error:  Function name must be a string in /home/renewalhelp/public_html/renser/renser/confirmuser.php on line 129
+[20-Jun-2017 01:41:55 America/Chicago] PHP Fatal error:  Function name must be a string in /home/renewalhelp/public_html/renser/renser/confirmuser.php on line 129
+[20-Jun-2017 01:51:38 America/Chicago] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/renewalhelp/public_html/renser/renser/confirmuser.php on line 145
+[20-Jun-2017 01:52:17 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cinfirmed_user' in 'field list'' in /home/renewalhelp/public_html/renser/renser/confirmuser.php:147
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/confirmuser.php(147): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/confirmuser.php on line 147
+[20-Jun-2017 05:36:15 America/Chicago] PHP Warning:  Illegal string offset 'userNo' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 149
+[20-Jun-2017 05:37:31 America/Chicago] PHP Warning:  Illegal string offset 'userNo' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 150
+[20-Jun-2017 05:38:48 America/Chicago] PHP Warning:  Illegal string offset 'userNo' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 150
+[20-Jun-2017 05:41:04 America/Chicago] PHP Fatal error:  Call to undefined function "{\"userNo\":\"1622\",\"userType\":\"customer\",\"name\":\"Pankaj Takale\",\"companyName\":false,\"loginId\":\"pankajtakale15@gmail.com\",\"regDate\":\"Tuesday 20th of June 2017 08:01:23 AM\",\"updatedOn\":\"Tuesday 20th of June 2017 08:01:23 AM\",\"addLine\":\"\",\"country\":\"India\",\"state\":\"\",\"city\":\"\",\"pin\":\"787878\",\"email\":\"pankajtakale15@gmail.com\",\"mobile\":\"9096016308\",\"landline\":\"\",\"isdeleted\":\"0\",\"version\":\"1\",\"isactive\":\"1\",\"vfc\":\"5948d653ea05b\",\"imgDir\":\"2017-06-20-080123\",\"status\":\"approved\",\"profilePic\":\"..\\\/img\\\/users_user_icon.png\",\"login_id_encoded\":\"11d15980996aeff24590abc5c853e8c6543593f3ab619f45109b8fe0ece5d61f\",\"isconfirmed\":\"confirmed\"}"() in /home/renewalhelp/public_html/renser/renser/welcome.php on line 150
+[20-Jun-2017 05:46:20 America/Chicago] PHP Warning:  Illegal string offset 'userNo' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 150
+[20-Jun-2017 05:48:58 America/Chicago] PHP Warning:  Illegal string offset 'userNo' in /home/renewalhelp/public_html/renser/renser/welcome.php on line 150
+[20-Jun-2017 11:40:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:987
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(987): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 987
+[20-Jun-2017 11:47:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:987
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(987): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 987
+[21-Jun-2017 10:46:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:987
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(987): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 987
+[23-Jun-2017 15:30:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:987
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(987): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 987
+[28-Jun-2017 07:54:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:992
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(992): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 992
+[29-Jun-2017 10:04:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:992
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(992): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 992
+[30-Jun-2017 05:49:27 America/Chicago] PHP Fatal error:  Class 'ContactUtil' not found in /home/renewalhelp/public_html/renser/contact/ContactService.php on line 264
+[30-Jun-2017 06:00:21 America/Chicago] PHP Fatal error:  Class 'ContactUtil' not found in /home/renewalhelp/public_html/renser/contact/ContactService.php on line 264
+[30-Jun-2017 12:05:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:992
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(992): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 992
+[01-Jul-2017 04:42:04 America/Chicago] PHP Warning:  include(common/guiCommon.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 3
+[01-Jul-2017 04:42:04 America/Chicago] PHP Warning:  include(): Failed opening 'common/guiCommon.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 3
+[01-Jul-2017 04:43:38 America/Chicago] PHP Warning:  include(common/guiCommon.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 3
+[01-Jul-2017 04:43:38 America/Chicago] PHP Warning:  include(): Failed opening 'common/guiCommon.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 3
+[01-Jul-2017 10:45:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1041
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1041): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1041
+[01-Jul-2017 15:18:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1031
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1031): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1031
+[01-Jul-2017 17:30:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1031
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1031): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1031
+[02-Jul-2017 04:40:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1031
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1031): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1031
+[02-Jul-2017 06:51:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1031
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1031): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1031
+[02-Jul-2017 02:36:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/buyPlan.php:13) in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 126
+[02-Jul-2017 02:37:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/buyPlan.php:13) in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 126
+[02-Jul-2017 17:36:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1031
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1031): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1031
+[03-Jul-2017 10:56:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1031
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1031): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1031
+[03-Jul-2017 21:11:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1031
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1031): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(171): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1031
+[06-Jul-2017 03:20:19 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 242
+[06-Jul-2017 03:21:40 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 242
+[07-Jul-2017 00:43:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:12:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:14:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:14:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:15:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:16:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:17:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:17:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 06:17:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1064
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1064): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(170): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1064
+[07-Jul-2017 01:33:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:33:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:36:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 01:36:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:8) in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 10
+[07-Jul-2017 06:50:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'expiry_date' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:39
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 39
+[07-Jul-2017 06:53:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'remaining_days' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:39
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 39
+[07-Jul-2017 06:54:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'remaining_days' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:39
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 39
+[07-Jul-2017 06:55:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'remaining_days' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:40
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 40
+[07-Jul-2017 06:55:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'remaining_days' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:40
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 40
+[07-Jul-2017 06:57:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'expiry_date' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:38
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 38
+[07-Jul-2017 06:58:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'expiry_date' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:39
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 39
+[07-Jul-2017 06:59:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'expiry_date' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:40
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 40
+[07-Jul-2017 06:59:41 UTC] PHP Fatal error:  Call to a member function sendEmail_paymentConfirmation() on a non-object in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 42
+[07-Jul-2017 07:00:56 UTC] PHP Fatal error:  Class 'ContactUtil' not found in /home/renewalhelp/public_html/renser/contact/ContactService.php on line 264
+[07-Jul-2017 07:03:13 UTC] PHP Warning:  Missing argument 8 for ContactUtil::sendMail_aboutPaymentConfirmation(), called in /home/renewalhelp/public_html/renser/contact/ContactService.php on line 269 and defined in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 412
+[07-Jul-2017 07:18:22 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 25
+[07-Jul-2017 07:18:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'expiry_date' cannot be null' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:42
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 42
+[07-Jul-2017 07:22:01 UTC] PHP Warning:  explode(): Empty delimiter in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 25
+[07-Jul-2017 07:22:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'expiry_date' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:42
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 42
+[07-Jul-2017 07:22:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'Array' for column 'expiry_date' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:42
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 42
+[07-Jul-2017 07:23:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'Sun Aug 06 2017 12:53:34 GMT 0530 (India Standard Time)' for column 'expiry_date' at row 80' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:39
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 39
+[07-Jul-2017 23:23:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1064
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1064): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(170): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1064
+[12-Jul-2017 10:48:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1064
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1064): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(170): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1064
+[13-Jul-2017 19:09:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1064
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1064): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(170): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1064
+[14-Jul-2017 06:01:45 UTC] PHP Fatal error:  Call to a member function getRemainingPeriod() on a non-object in /home/renewalhelp/public_html/renser/renser/expiryReminderJob.php on line 65
+[15-Jul-2017 06:27:56 America/Chicago] PHP Warning:  include(common/guiCommon.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 3
+[15-Jul-2017 06:27:56 America/Chicago] PHP Warning:  include(): Failed opening 'common/guiCommon.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 3
+[15-Jul-2017 06:27:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/buyPlan.php:3) in /home/renewalhelp/public_html/renser/renser/buyPlan.php on line 5
+[15-Jul-2017 06:27:59 America/Chicago] PHP Warning:  include_once(common/DB.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:27:59 America/Chicago] PHP Warning:  include_once(): Failed opening 'common/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:27:59 America/Chicago] PHP Fatal error:  Class 'DBUtil' not found in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 9
+[15-Jul-2017 06:27:59 America/Chicago] PHP Warning:  include_once(common/DB.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:27:59 America/Chicago] PHP Warning:  include_once(): Failed opening 'common/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:27:59 America/Chicago] PHP Fatal error:  Class 'DBUtil' not found in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 9
+[15-Jul-2017 06:28:48 America/Chicago] PHP Warning:  include_once(common/DB.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:28:48 America/Chicago] PHP Warning:  include_once(): Failed opening 'common/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:28:48 America/Chicago] PHP Fatal error:  Class 'DBUtil' not found in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 9
+[15-Jul-2017 06:28:48 America/Chicago] PHP Warning:  include_once(common/DB.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:28:48 America/Chicago] PHP Warning:  include_once(): Failed opening 'common/DB.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 2
+[15-Jul-2017 06:28:48 America/Chicago] PHP Fatal error:  Class 'DBUtil' not found in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 9
+[15-Jul-2017 06:29:45 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 41
+[16-Jul-2017 00:58:51 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 42
+[17-Jul-2017 06:16:51 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 35
+[17-Jul-2017 06:18:42 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 35
+[17-Jul-2017 04:22:48 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 42
+[17-Jul-2017 09:23:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1124
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1124): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(207): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1124
+[17-Jul-2017 04:23:38 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 42
+[17-Jul-2017 04:54:20 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 42
+[17-Jul-2017 04:55:28 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 42
+[17-Jul-2017 04:56:28 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 42
+[17-Jul-2017 09:56:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1124
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1124): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(207): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1124
+[18-Jul-2017 22:48:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1124
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1124): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(207): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1124
+[19-Jul-2017 00:11:40 America/Chicago] PHP Warning:  include(common/guiCommon.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/renser/renser/vendore.php on line 3
+[19-Jul-2017 00:11:40 America/Chicago] PHP Warning:  include(): Failed opening 'common/guiCommon.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/renser/renser/vendore.php on line 3
+[19-Jul-2017 05:30:26 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[20-Jul-2017 05:27:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1124
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1124): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(207): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1124
+[21-Jul-2017 05:04:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1131
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1131): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(207): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1131
+[21-Jul-2017 05:48:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1131
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1131): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(207): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1131
+[21-Jul-2017 16:01:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vendore_fristName' in 'field list'' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php:53
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php(53): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php on line 53
+[21-Jul-2017 16:02:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'updated_on' cannot be null' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php:51
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php on line 51
+[21-Jul-2017 16:03:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php:69
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php(69): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php on line 69
+[21-Jul-2017 16:04:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php:69
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php(69): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_firstStep.php on line 69
+[21-Jul-2017 11:54:50 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[21-Jul-2017 21:49:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[21-Jul-2017 21:49:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[22-Jul-2017 01:38:05 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[22-Jul-2017 01:42:17 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[22-Jul-2017 07:04:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1131
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1131): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(207): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1131
+[23-Jul-2017 09:22:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1131
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1131): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1131
+[23-Jul-2017 09:36:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1131
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1131): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1131
+[23-Jul-2017 04:36:32 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[23-Jul-2017 09:36:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1131
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1131): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1131
+[24-Jul-2017 07:35:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:34
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 34
+[24-Jul-2017 07:37:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:34
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 34
+[24-Jul-2017 07:39:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:34
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 34
+[24-Jul-2017 07:43:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:34
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 34
+[24-Jul-2017 07:55:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'updated_on' at row 1' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:34
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 34
+[24-Jul-2017 10:24:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1169
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1169): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1169
+[25-Jul-2017 11:32:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1178
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1178): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1178
+[26-Jul-2017 04:49:41 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[26-Jul-2017 04:50:03 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[26-Jul-2017 09:50:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1178
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1178): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1178
+[26-Jul-2017 04:53:02 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[26-Jul-2017 04:53:27 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[27-Jul-2017 07:28:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1179
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1179): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1179
+[27-Jul-2017 10:40:26 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[28-Jul-2017 06:21:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1179
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1179): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1179
+[28-Jul-2017 14:41:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1179
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1179): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(211): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1179
+[29-Jul-2017 23:38:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1179
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1179): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(215): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1179
+[30-Jul-2017 02:12:52 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[30-Jul-2017 02:13:17 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[30-Jul-2017 02:13:33 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[30-Jul-2017 02:13:49 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[30-Jul-2017 08:52:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1179
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1179): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1179
+[31-Jul-2017 04:25:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1179
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1179): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1179
+[01-Aug-2017 07:45:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1219
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1219): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1219
+[01-Aug-2017 08:08:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1219
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1219): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1219
+[01-Aug-2017 08:43:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1219
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1219): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1219
+[02-Aug-2017 03:13:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1220
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1220): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1220
+[02-Aug-2017 01:13:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 87
+[02-Aug-2017 01:13:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 87
+[02-Aug-2017 01:13:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 87
+[02-Aug-2017 01:13:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 87
+[02-Aug-2017 02:09:03 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[02-Aug-2017 02:30:24 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[02-Aug-2017 02:30:30 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[02-Aug-2017 07:49:27 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 34
+[02-Aug-2017 07:51:03 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 34
+[02-Aug-2017 03:58:50 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[08-Aug-2017 01:11:31 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[08-Aug-2017 17:17:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1225
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1225): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1225
+[12-Aug-2017 05:31:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1225
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1225): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(203): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1225
+[12-Aug-2017 06:20:15 America/Chicago] PHP Warning:  include_once(/home/renewalhelp/public_html/renser/renser/footer.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/r/renser/vendor.php on line 431
+[12-Aug-2017 06:20:15 America/Chicago] PHP Warning:  include_once(): Failed opening '/home/renewalhelp/public_html/renser/renser/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/r/renser/vendor.php on line 431
+[12-Aug-2017 06:20:55 America/Chicago] PHP Warning:  include_once(/home/renewalhelp/public_html/renser/renser/footer.php): failed to open stream: No such file or directory in /home/renewalhelp/public_html/r/renser/manage-services.php on line 157
+[12-Aug-2017 06:20:55 America/Chicago] PHP Warning:  include_once(): Failed opening '/home/renewalhelp/public_html/renser/renser/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/renewalhelp/public_html/r/renser/manage-services.php on line 157
+[13-Aug-2017 20:08:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[13-Aug-2017 20:08:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[13-Aug-2017 20:08:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[17-Aug-2017 07:19:37 America/Chicago] PHP Fatal error:  Cannot redeclare ContactUtil::sendEmail_reminder() in /home/renewalhelp/public_html/renser/contact/ContactUtil.php on line 249
+[22-Aug-2017 03:33:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[22-Aug-2017 03:33:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[23-Aug-2017 23:21:55 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_name' in 'field list'' in /home/renewalhelp/public_html/renser/renser/confirmuser.php:140
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/confirmuser.php(140): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/confirmuser.php on line 140
+[24-Aug-2017 01:01:44 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 01:05:15 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 01:05:42 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 06:08:43 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 47
+[24-Aug-2017 01:09:45 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 01:23:53 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 06:24:13 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 47
+[24-Aug-2017 01:26:06 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 06:26:26 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 47
+[24-Aug-2017 01:27:30 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 06:27:53 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 47
+[24-Aug-2017 01:29:11 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 06:29:31 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 47
+[24-Aug-2017 01:30:10 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 06:30:45 UTC] PHP Fatal error:  Call to undefined function bindParam() in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 47
+[24-Aug-2017 01:31:29 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 01:31:34 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[24-Aug-2017 06:31:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* from renewalservice where user='2630'' at line 1' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:48
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 48
+[24-Aug-2017 01:35:10 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[25-Aug-2017 00:33:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[25-Aug-2017 00:33:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[27-Aug-2017 11:56:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[27-Aug-2017 11:56:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[27-Aug-2017 11:56:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[29-Aug-2017 20:45:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[29-Aug-2017 20:45:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[31-Aug-2017 18:03:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[31-Aug-2017 18:03:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[02-Sep-2017 01:12:43 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[02-Sep-2017 12:24:58 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[03-Sep-2017 23:37:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[03-Sep-2017 23:37:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[03-Sep-2017 23:37:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[07-Sep-2017 10:47:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1401
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1401): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(210): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1401
+[07-Sep-2017 10:47:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1401
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1401): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(210): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1401
+[07-Sep-2017 13:29:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1401
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1401): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(210): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1401
+[07-Sep-2017 13:30:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1401
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1401): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(210): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1401
+[07-Sep-2017 13:31:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1401
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1401): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(210): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1401
+[07-Sep-2017 13:40:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/renser/service/UserService.php:1401
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/service/UserService.php(1401): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/renser/renser/welcome.php(210): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/renser/service/UserService.php on line 1401
+[08-Sep-2017 04:49:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'remaining_days' cannot be null' in /home/renewalhelp/public_html/renser/renser/extendPeriodPaymentConfirm.php:36
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/extendPeriodPaymentConfirm.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/extendPeriodPaymentConfirm.php on line 36
+[08-Sep-2017 04:57:01 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'remaining_days' cannot be null' in /home/renewalhelp/public_html/renser/renser/extendPeriodPaymentConfirm.php:36
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/extendPeriodPaymentConfirm.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/extendPeriodPaymentConfirm.php on line 36
+[08-Sep-2017 06:21:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[08-Sep-2017 06:21:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[09-Sep-2017 13:11:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pin_code' in 'where clause'' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:46
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 46
+[09-Sep-2017 13:12:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'Saturday 9th of September 2017 01:12:55 PM' for column 'bill_date' at row 1' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:105
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(105): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 105
+[09-Sep-2017 13:15:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tax_amount_1' cannot be null' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:105
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(105): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 105
+[10-Sep-2017 02:50:27 UTC] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [] does not comply with RFC 2822, 3.6.2.' in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mime/Headers/MailboxHeader.php:348
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/lib/classes/Swift/Mime/Headers/MailboxHeader.php(263): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/renewalhelp/public_html/renser/lib/classes/Swift/Mime/Headers/MailboxHeader.php(106): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/renewalhelp/public_html/renser/lib/classes/Swift/Mime/Headers/MailboxHeader.php(63): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/renewalhelp/public_html/renser/lib/classes/Swift/Mime/SimpleHeaderFactory.php(58): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/renewalhelp/public_html/renser/lib/classes/Swift/Mime/SimpleHeaderSet.php(68): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 /home/renewalhelp/pu in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 348
+[10-Sep-2017 04:52:34 UTC] PHP Fatal error:  Call to a member function getIndianCurrencyInWords() on a non-object in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 99
+[10-Sep-2017 05:05:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tax_rate_2' cannot be null' in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php:119
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/paymentConfirm.php(119): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/paymentConfirm.php on line 119
+[11-Sep-2017 05:38:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:88
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 88
+[11-Sep-2017 00:38:41 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'user_no' at row 1' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:246
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(246): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 246
+[11-Sep-2017 05:54:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:66
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(66): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 66
+[11-Sep-2017 00:56:53 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_no' cannot be null' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:247
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(247): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 247
+[16-Sep-2017 01:10:02 America/Chicago] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/renewalhelp/public_html/renser/renser/recordViewer.php on line 51
+[16-Sep-2017 18:06:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[16-Sep-2017 18:06:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[16-Sep-2017 18:06:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[16-Sep-2017 18:08:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[16-Sep-2017 18:08:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[16-Sep-2017 18:09:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[16-Sep-2017 18:09:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[17-Sep-2017 01:37:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[17-Sep-2017 01:37:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[17-Sep-2017 11:39:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[17-Sep-2017 11:39:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[17-Sep-2017 21:50:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[17-Sep-2017 21:50:35 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[17-Sep-2017 21:50:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[17-Sep-2017 21:50:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[17-Sep-2017 21:51:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[17-Sep-2017 21:51:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[17-Sep-2017 21:51:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[18-Sep-2017 08:39:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[18-Sep-2017 08:39:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[18-Sep-2017 08:39:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[18-Sep-2017 14:24:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[18-Sep-2017 14:24:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[18-Sep-2017 14:24:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[21-Sep-2017 01:24:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[21-Sep-2017 01:24:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[21-Sep-2017 01:25:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[21-Sep-2017 01:25:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[21-Sep-2017 09:58:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[21-Sep-2017 09:58:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[22-Sep-2017 13:46:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[22-Sep-2017 13:46:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[29-Sep-2017 18:03:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[29-Sep-2017 18:03:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[29-Sep-2017 18:03:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[01-Oct-2017 09:44:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[01-Oct-2017 09:44:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 45
+[01-Oct-2017 09:44:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/login.php:133) in /home/renewalhelp/public_html/renser/renser/login.php on line 53
+[02-Oct-2017 08:34:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[02-Oct-2017 08:34:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[02-Oct-2017 09:07:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[02-Oct-2017 09:07:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Oct-2017 19:21:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Oct-2017 19:21:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Oct-2017 20:26:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[03-Oct-2017 20:26:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[08-Oct-2017 05:21:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[08-Oct-2017 05:21:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[14-Oct-2017 19:06:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[14-Oct-2017 19:06:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[16-Oct-2017 01:46:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[16-Oct-2017 01:46:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[20-Oct-2017 16:41:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[20-Oct-2017 16:41:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[22-Oct-2017 15:04:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[22-Oct-2017 15:04:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[23-Oct-2017 07:54:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[23-Oct-2017 07:54:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[24-Oct-2017 04:37:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[24-Oct-2017 04:37:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[24-Oct-2017 05:36:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[24-Oct-2017 05:36:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[26-Oct-2017 07:44:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[26-Oct-2017 07:44:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[28-Oct-2017 09:16:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[28-Oct-2017 09:16:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[29-Oct-2017 00:52:59 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:250
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(250): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 250
+[29-Oct-2017 00:53:40 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:250
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(250): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 250
+[29-Oct-2017 00:56:18 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:250
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(250): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 250
+[29-Oct-2017 00:57:29 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php:250
+Stack trace:
+#0 /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php(250): PDOStatement->execute()
+#1 {main}
+  thrown in /home/renewalhelp/public_html/renser/renser/vendoreRegister_process.php on line 250
+[12-Nov-2017 03:24:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[12-Nov-2017 03:24:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[28-Nov-2017 05:09:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[28-Nov-2017 05:09:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[30-Nov-2017 12:51:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[30-Nov-2017 12:51:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Dec-2017 11:04:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[03-Dec-2017 11:04:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[03-Dec-2017 11:06:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Dec-2017 11:06:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Dec-2017 11:17:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Dec-2017 11:17:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[03-Dec-2017 11:30:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[03-Dec-2017 11:30:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[24-Dec-2017 08:57:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[24-Dec-2017 08:57:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[24-Dec-2017 08:57:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[24-Dec-2017 08:57:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[30-Dec-2017 01:14:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[30-Dec-2017 01:14:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateWelcome.php on line 6
+[05-Jan-2018 16:03:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[05-Jan-2018 16:03:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php:5) in /home/renewalhelp/public_html/renser/renser/corporateEmployeeWelcome.php on line 6
+[16-Jan-2018 05:55:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:4) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 60
+[16-Jan-2018 05:56:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:4) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 60
+[16-Jan-2018 05:57:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:4) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 60
+[16-Jan-2018 06:00:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:136) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 46
+[16-Jan-2018 06:01:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:136) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 46
+[16-Jan-2018 06:12:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:54) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 56
+[16-Jan-2018 06:13:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:54) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 56
+[16-Jan-2018 06:13:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/renewalhelp/public_html/new/renser/renser/login.php:54) in /home/renewalhelp/public_html/new/renser/renser/login.php on line 56
+[16-Jan-2018 06:29:15 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/new/renser/renser/welcome.php on line 18
+[16-Jan-2018 12:29:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/new/renser/service/UserService.php:1471
+Stack trace:
+#0 /home/renewalhelp/public_html/new/renser/service/UserService.php(1471): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/new/renser/renser/welcome.php(233): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/new/renser/service/UserService.php on line 1471
+[16-Jan-2018 07:45:01 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/new/renser/renser/welcome.php on line 18
+[16-Jan-2018 13:45:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/new/renser/service/UserService.php:1472
+Stack trace:
+#0 /home/renewalhelp/public_html/new/renser/service/UserService.php(1472): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/new/renser/renser/welcome.php(233): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/new/renser/service/UserService.php on line 1472
+[16-Jan-2018 07:45:56 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/new/renser/renser/welcome.php on line 18
+[16-Jan-2018 13:45:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/new/renser/service/UserService.php:1473
+Stack trace:
+#0 /home/renewalhelp/public_html/new/renser/service/UserService.php(1473): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/new/renser/renser/welcome.php(233): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/new/renser/service/UserService.php on line 1473
+[16-Jan-2018 07:46:20 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/new/renser/renser/welcome.php on line 18
+[16-Jan-2018 13:46:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/new/renser/service/UserService.php:1473
+Stack trace:
+#0 /home/renewalhelp/public_html/new/renser/service/UserService.php(1473): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/new/renser/renser/welcome.php(233): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/new/renser/service/UserService.php on line 1473
+[16-Jan-2018 07:46:43 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/new/renser/renser/welcome.php on line 18
+[16-Jan-2018 13:46:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/new/renser/service/UserService.php:1472
+Stack trace:
+#0 /home/renewalhelp/public_html/new/renser/service/UserService.php(1472): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/new/renser/renser/welcome.php(233): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/new/renser/service/UserService.php on line 1472
+[16-Jan-2018 07:47:09 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/new/renser/renser/welcome.php on line 18
+[16-Jan-2018 13:47:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/new/renser/service/UserService.php:1473
+Stack trace:
+#0 /home/renewalhelp/public_html/new/renser/service/UserService.php(1473): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/new/renser/renser/welcome.php(233): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/new/renser/service/UserService.php on line 1473
+[16-Jan-2018 07:47:29 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/renewalhelp/public_html/new/renser/renser/welcome.php on line 18
+[16-Jan-2018 13:47:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (-01-) at position 3 (-): Unexpected character' in /home/renewalhelp/public_html/new/renser/service/UserService.php:1473
+Stack trace:
+#0 /home/renewalhelp/public_html/new/renser/service/UserService.php(1473): DateTime->__construct('-01-')
+#1 /home/renewalhelp/public_html/new/renser/renser/welcome.php(233): UserService->getRemainingPeriod(Array)
+#2 {main}
+  thrown in /home/renewalhelp/public_html/new/renser/service/UserService.php on line 1473
+[09-Mar-2018 01:51:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/renewalhelp/public_html/wr/renser/renser/welcome.php on line 506
+[15-Jul-2018 02:00:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/renewalhelp/public_html/demo/rh/wr/renser/service/RenewalSerService.php on line 1260
+[15-Jul-2018 02:00:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/renewalhelp/public_html/demo/rh/wr/renser/service/RenewalSerService.php on line 1260
+[16-Jul-2018 02:00:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/renewalhelp/public_html/demo/rh/wr/renser/service/RenewalSerService.php on line 1260
+[16-Jul-2018 02:00:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/renewalhelp/public_html/demo/rh/wr/renser/service/RenewalSerService.php on line 1260
