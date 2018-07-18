@@ -1,0 +1,10 @@
+[16-Sep-2017 18:23:36 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[19-Sep-2017 16:07:57 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[21-Sep-2017 01:29:42 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[01-Oct-2017 11:43:49 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[07-Nov-2017 08:16:56 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[15-Nov-2017 16:49:33 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[03-Dec-2017 13:03:56 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[03-Dec-2017 14:17:23 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[23-Dec-2017 04:18:18 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[24-Dec-2017 08:45:07 America/Chicago] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/renewalhelp/public_html/renser/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
